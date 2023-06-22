@@ -1,0 +1,32 @@
+{
+  "posts": [
+    {
+      "title": "Lorem ispum",
+      "author": "typicode",
+      "public": true,
+      "id": 1
+    },
+    {
+      "title": "TypeScript",
+      "author": "Niraina",
+      "public": true,
+      "id": 4
+    },
+    {
+      "title": "teste update",
+      "author": "teste upadte",
+      "public": false,
+      "id": 6
+    }
+  ],
+  "comments": [
+    {
+      "id": 1,
+      "body": "some comment",
+      "postId": 1
+    }
+  ],
+  "profile": {
+    "name": "typicode"
+  }
+}
